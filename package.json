@@ -1,0 +1,14 @@
+{
+  "name": "foxley-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Jecho Ricafrente",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
